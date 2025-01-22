@@ -1,4 +1,4 @@
-# Document Summary Assistant  
+# Summarizer
 
 ## Overview  
 The **Document Summary Assistant** is an application designed to extract and summarize text from various document formats, including PDFs and images. This tool automates the summarization process, making it easier to access and process key information from lengthy documents. The solution is ideal for education, research, business, and any domain dealing with large volumes of unstructured text.  
