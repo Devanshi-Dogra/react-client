@@ -50,7 +50,7 @@ The transition to Flask streamlined development, helping me complete the applica
 
 ---
 
-## Deliverables  
+## Deliverables
 
 - **Hosted Application**: Access the application online using Render.  
 - **Source Code**: Available on GitHub with a detailed README.  
